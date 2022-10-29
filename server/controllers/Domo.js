@@ -1,4 +1,5 @@
 const models = require('../models');
+
 const { Domo } = models;
 
 const makerPage = (req, res) => {
